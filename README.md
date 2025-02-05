@@ -4,8 +4,6 @@
 ## 📌 Overview  
 This project demonstrates an end-to-end data analytics workflow using **SQL Server** and **Power BI**. We take raw data from an Excel file, clean and structure it in SQL, and build an interactive Power BI dashboard to extract key business insights.  
 
-### **Business Question:**  
-**Can we increase prices next year without negatively impacting demand?**  
 
 ## 📂 Project Workflow  
 
