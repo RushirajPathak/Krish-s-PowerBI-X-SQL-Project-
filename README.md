@@ -1,4 +1,5 @@
 # 🚀 Krish's SQL & Power BI Data Analysis Project  
+![Quantity Comparison](https://github.com/RushirajPathak/Krish-s-First-Portfolio-Project-Performance-Report/blob/main/Quantity2024.png)
 
 ## 📌 Overview  
 This project demonstrates an end-to-end data analytics workflow using **SQL Server** and **Power BI**. We take raw data from an Excel file, clean and structure it in SQL, and build an interactive Power BI dashboard to extract key business insights.  
