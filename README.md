@@ -53,3 +53,14 @@ This project demonstrates an end-to-end data analytics workflow using **SQL Serv
 ## 💡 Conclusion  
 This project highlights how **SQL and Power BI** can be leveraged to make **data-driven business decisions**. If you're looking to improve your skills in **business intelligence** and **data analytics**, this is a great hands-on project to explore!  
 
+## Screenshots of the Report
+
+### Overall insights 
+![Overall](https://github.com/RushirajPathak/Krish-s-PowerBI-X-SQL-Project-/blob/main/Untitled-1.png)
+
+### 2021 insights 
+![2021](https://github.com/RushirajPathak/Krish-s-PowerBI-X-SQL-Project-/blob/main/Untitled-2.png)
+
+### 2022insights 
+![2022](https://github.com/RushirajPathak/Krish-s-PowerBI-X-SQL-Project-/blob/main/Untitled-3.png)
+
